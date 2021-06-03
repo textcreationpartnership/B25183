@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of the letters patents granted by his Majesty to the French ministers, &amp;c. lately come hither for shelter and protection.</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25183</idno><idno type="EEBO-CITATION">99886738</idno>
+  <idno type="VID">189188</idno>
+  <idno type="EEBO-PROQUEST">2240902123</idno>
+  
+            <idno type="STC">Wing J395</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.24[48]</idno>
+            <idno type="STC">ESTC R226515</idno>
+            <idno type="PROQUEST">ocm99886738</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886738e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189188)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C15:2[48])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of the letters patents granted by his Majesty to the French ministers, &amp;c. lately come hither for shelter and protection.</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>At end of text: In witness whereof we have caused these our letters to be made patents, witness our self at Westminster, the fourth day September, in the fourth year of our reign.</note>
+                  <note>Steele notation: these and Wit-.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters_patent">
+            <pb facs="tcp:189188:1"/>
+            <head>
+               <hi>A true Copy of the Letters Patents granted by his Majesty to the <hi>French Ministers, &amp;c.</hi> lately come hither for Shelter and Protection.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <hi>JAMES</hi> the Second by the Grace of God King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi>
+               </signed>
+               <salute>To all to whom these Presents shall come, Greeting.</salute>
+            </opener>
+            <p>Whereas it hath been represented unto us by the humble Petition of <hi>Benjamin de Daillon, John Lewis Ma<g ref="char:EOLhyphen"/>lide, Samuel Mettayer, Simon Canole, Henry Gervais, Timothy Baignoux, Charles Peter Souchet, William Bardon, John Forent</hi> and <hi>Bartholomew Balaguier;</hi> being all of them French Ministers making Profession of the Protestant Religion, that they together with a great number of French Protestants of their Communion are fled for shelter into this our Realm of <hi>England,</hi> &amp; are now in &amp; about our City of <hi>London,</hi> and the Suburbs thereof, of the truth whereof we are fully satisfied. And it hath been also represented unto us, that the aforesaid Ministers cannot perform the Office of their Ministry to such comfort and edification of those of the French Protestants which now do reside, and daily come to re<g ref="char:EOLhyphen"/>side in our said City of <hi>London,</hi> and the Suburbs thereof, as they much desire to do, in regard a number of People being French Protestants daily come out of their own Country; amongst whom are many that were under the immediate care and charge of the said Ministers where they lived and resided in <hi>France,</hi> and for that they are here destitute of, and want places for their Assemblies, in and for matters of Religious Worship, and matters thereto re<g ref="char:EOLhyphen"/>lating: And because these places now used for the Worship of God by those of the French Nation, professing the Protestant Religion, are not sufficient to contain those of their own Communion; And those French Protestants that lately have and daily do come over into this our Realm of <hi>England,</hi> and do resort to our said City of <hi>London,</hi> and the Suburbs thereof, Whereby many Families and their Dependants are not able to find that Comfort and Edification which they came to seek for in this our Kingdom, and many others may be discouraged from putting themselves under our Royal Protection; And the aforesaid Ministers having humbly besought Vs that out of our Royal Grace towards Strangers, we would please to grant them leave to exercise their Ministry according to the manner as they did in <hi>France,</hi> conformable to the Confession of Faith of their Churches, and Liturgy, and Discipline used amongst them, to the end that they may teach their People the Fear of God, the Honour and Allegiance which is due to Vs, in a Christian and well ordered Conversation: Beseeching Vs likewise that for this end We would give them leave to build one or more Church or Churches, place or places of religious meeting or assembling, within our City of <hi>London,</hi> or Suburbs of the same, wherein they may perform the said Functions, and keep their Consistories for the maintaining of the Order amongst them; and that in the mean time, till they can build such Church or Churches, place or places for religious meeting or assembling, they may be permitted to hire such place or places as they can find convenient for the use aforesaid, &amp; after decease or other failure of any of the aforesaid Ministers, they may have leave to fill up their number of ten Ministers, that themselves and their Successors may acknowledg our Royal Bounty, and continue to pray for the Prosperity of us and our Kingdoms. Which Humble Petition of the French Ministers We of our Royal Bounty have granted and do hereby grant. NOW Know Ye therefore, that for the more and greater ease, comfort and encourage<g ref="char:EOLhyphen"/>ment of the said French Ministers, and of those French Protestants that already have fled, or hereafter shall flee for shelter and protection to this Our Kingdom of <hi>England,</hi> and for the better enabling the said French Ministers and their Successors to perform and exercise their Ministerial Office and Functions to and amongst their People, according as above desired, We of our special Grace, certain Knowledg, and meer Motion, have willed, ordained, constituted and granted, and by these Presents for Vs and our Heirs and Successors, do will ordain, constitute and grant, that the aforesaid French Ministers, that is to say, the said <hi>Benjamin de Daillon, John Lewis Malide, Samuel Mettayer, Simon Canole, Henry Gervais, Timothy Baignoux, Charles Peter Souchet, William Bardon, John Forent,</hi> &amp; <hi>Bartholomew Balaguier,</hi> &amp; their Successors Ministers of the said French Congregation of Protestants strangers, from time to time, for ever hereafter be, &amp; shall be one Body Politick &amp; Corporate of themselves, in deed &amp; name, by the name of the French Ministers of the French Congregation of Protestants strangers, in or about our City of <hi>London,</hi> &amp; Suburbs thereof, of the Foundation of K. <hi>James</hi> the Second. And We do by these Presents incorporate them by the Name aforesaid, and really and fully create, erect, ordain, make &amp; constitute them a Body Corporate and Politick, and that they have a perpetual Succession, and shall &amp; may exercise the functions of their Ministry according to their manner used in <hi>France,</hi> conformable to their Confession of Faith, Liturgy and Discipline by themselves heretofore in their Country used and exercised. And Fur<g ref="char:EOLhyphen"/>ther We of our special Grace, certain Knowledg, &amp; meer Motion, have given and granted, and by these Presents for Vs, our Heirs and Successors, do give and grant unto the said French Ministers Protestants Strangers, and their Successors, special Licence and free and lawful Power and Autho<g ref="char:EOLhyphen"/>rity to have, purchase, and possess for them and their Successors for ever, and for any term of Years, Life or Lives, any Land or Ground whereon to build one or more Church or Churches, place or places of Worship, within this our City of <hi>London,</hi> or Suburbs thereof, wherein they may exercise their said Functions, and keep their Consistories, for the maintaining of Order, and the reforming of Abuses; and that in the mean time it shall and may be lawful for them to hire such place or places, as they shall judg convenient for the purposes aforesaid; the Statute of <hi>Mortmain,</hi> or any other Statute and Ordinance, or provision heretofore had, made, set forth, ordained or provided, or any other matter, cause, or thing whatsoever to the con<g ref="char:EOLhyphen"/>trary in any wise notwithstanding. And further we have given and granted, and by these Presents for Vs, our Heirs and Successors, We do give and grant unto all and every the Subject or Subjects whatsoever of Vs, our Heirs and Successors, special Licence and free and lawful Power and Authori<g ref="char:EOLhyphen"/>ty, that he, they, or any of them shall and may give, grant, sell or demise unto the said French Ministers Strangers, and their Successors for ever, or for any term of Years, Life or Lives, any Land or Ground, whereon to build one or more Church or Churches, place or places of Worship within our Ci<g ref="char:EOLhyphen"/>ty of <hi>London,</hi> or Suburbs of the same. And We do hereby for Vs, our Heirs and Successors will &amp; grant to the said French Ministers, Protestant Strangers and their Successors, that they the said French Ministers Protestants strangers and their Successors shall and may from time to time for ever hereafter, when and as often as any of the Ministers of the said Congregation shall happen to die, or to remove from <hi>London</hi> aforesaid, and the Suburbs thereof, or be removed from his or their Office or Offices, Function or Functions, for any just or reasonable cause, according to the Discipline hereto<g ref="char:EOLhyphen"/>fore used by the said French Ministers in <hi>France,</hi> nominate, elect, choose &amp; establish. And We do hereby for Vs, our Heirs &amp; Successors, give &amp; grant unto the said French Ministers Protestants strangers and their Successors full Power, and Authority to nominate, elect, choose and establish some other person or persons in the room and rooms, place and places of such of the said Ministers, for the time being of the same Congregation, as shall happen to die, or remove, or be removed as aforesaid, to succeed them in the Office or Offices of Minister or Ministers of the said Congregation. Which per<g ref="char:EOLhyphen"/>son and persons so from time to time for ever hereafter to be chosen, shall and may enjoy all and singular the Powers, Priviledges and Immunities by these Presents granted or intended to be granted. And lastly, We require and command the Lord Mayor of our City of <hi>London,</hi> and the Aldermen, Sheriffs, &amp; Iustices of Peace there, and the Iustices of Peace of our Counties of <hi>Middlesex</hi> &amp; <hi>Surrey,</hi> &amp; also all Archbishops, Bishops, &amp; others our Officers &amp; Ministers whatsoever, both Ecclesiastical &amp; Civil, whom it may concern, that they do permit the aforesaid Ministers &amp; their Successors quietly &amp; peace<g ref="char:EOLhyphen"/>ably to enjoy the effects of this our Royal Bounty, that so they may exercise their Ministry amongst their own People, according to their own Customs, Ceremonies and Discipline, without let or disturbance; Notwithstanding they are not conformable to the Customs, Ceremonies, Rites &amp; Discipline of the Church of <hi>England,</hi> or any Act, Statute, Proclamation, Injunction, Restriction, Caution, Ordinance, Constitution, Vsage, or other matter, case, or thing whatsoever to the contrary in any wise notwithstanding. In Witness whereof we have caused these our Letters to be made Patents.</p>
+            <closer>
+               <dateline>Wit<g ref="char:EOLhyphen"/>ness our Self at <hi>Westminster,</hi>
+                  <date>the fourth day of <hi>September,</hi> in the fourth Year of our Reign.</date>
+               </dateline>
+               <signed>By Writ of Privy Seal, <hi>PIGOTT.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Pro fine in Hanaperio 6 l. 13 s. 4 d.</p>
+               <closer>
+                  <signed>Cum magno Angliae Sigillo. <hi>JEFFRAYS</hi> C.</signed>
+               </closer>
+            </postscript>
+            <postscript>
+               <p>Pardonatur,</p>
+               <closer>
+                  <signed>
+                     <hi>JEFFRAYS</hi> C.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="provision_in_the_Act_of_Uniformity">
+            <head>From the Act for Uniformity in the 14<hi>th</hi> Year of King <hi>Charles</hi> II.</head>
+            <p>Provided that the Penalties in this Act shall not extend to the Forreigners or Aliens of the Forreign Reformed Churches, allowed, or to be al<g ref="char:EOLhyphen"/>lowed by the King's Majesty, his Heirs and Successors in <hi>England.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
